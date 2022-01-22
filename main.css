@@ -24,14 +24,12 @@ body {
 #my-title{
     color: white;
     text-align: center;
-    font-family: 'Marck Script', cursive;
     font-size: 30px;
 }
 
 #PS1 {
     color: white;
     text-align: center;
-    font-family: 'Marck Script', cursive;
     font-size: 20px;
     padding-bottom: 10px;
 }
@@ -39,7 +37,6 @@ body {
 #PS2 {
     color: #776045;
     text-align: center;
-    font-family: 'Marck Script', cursive;
     font-size: 20px;
 }
 
@@ -53,14 +50,12 @@ body {
     text-align: center;
     margin-top: 60px;
     margin-bottom: 60px;
-    font-family: 'Marck Script', cursive;
     color: #776045;
 }
 
 .my-title-h1-2{
     text-align: center;
     margin: 20px 0;
-    font-family: 'Marck Script', cursive;
     color: #776045;
 }
 
@@ -69,7 +64,6 @@ ul {
     text-align: left;
     margin: 20px 0;
     padding: 0 200px;
-    font-family: 'Marck Script', cursive;
     color: #776045;}
 
 li {
@@ -79,7 +73,6 @@ li {
 .my-title-h1-4{
     text-align: center;
     margin: 20px 0;
-    font-family: 'Marck Script', cursive;
     color: #776045;
 }
 
