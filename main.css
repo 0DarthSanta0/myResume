@@ -1,0 +1,115 @@
+body {
+    width: 1440px;
+    height: 900px;
+    margin: 0 auto;
+    background-color: #e5e5bb;
+    font-family: 'Poppins', sans-serif;
+}
+
+#my-header {
+    height: 100vh;
+    width: 100%;
+    background-color: #154a61;
+    background-size: cover;
+}
+
+#my-logo {
+    width: 360px;
+    height: 475px;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-right: 10%;
+}
+
+#my-title{
+    color: white;
+    text-align: center;
+    font-family: 'Marck Script', cursive;
+    font-size: 30px;
+}
+
+#PS1 {
+    color: white;
+    text-align: center;
+    font-family: 'Marck Script', cursive;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+#PS2 {
+    color: #776045;
+    text-align: center;
+    font-family: 'Marck Script', cursive;
+    font-size: 20px;
+}
+
+.my-photo{
+    width: 25%;
+    height: 25%;
+    padding-left: 38%;
+}
+
+.my-title-h1{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    font-family: 'Marck Script', cursive;
+    color: #776045;
+}
+
+.my-title-h1-2{
+    text-align: center;
+    margin: 20px 0;
+    font-family: 'Marck Script', cursive;
+    color: #776045;
+}
+
+ul {
+    font-size: 20px;
+    text-align: left;
+    margin: 20px 0;
+    padding: 0 200px;
+    font-family: 'Marck Script', cursive;
+    color: #776045;}
+
+li {
+    padding-top: 20px;
+}
+
+.my-title-h1-4{
+    text-align: center;
+    margin: 20px 0;
+    font-family: 'Marck Script', cursive;
+    color: #776045;
+}
+
+#footer {
+    height: 70px;
+    width: 100%;
+    background-color: #154a61;
+    background-size: cover;
+}
+
+
+
+#tg {
+    width: 50px;
+    height: 50px;
+    padding-top: 10px;
+    padding-left: 500px;
+}
+
+#inst {
+    width: 50px;
+    height: 50px;
+    padding-top: 10px;
+    padding-left: 145px;
+}
+
+#gmail {
+    width: 50px;
+    height: 50px;
+    padding-top: 10px;
+    padding-left: 145px;
+}
+
